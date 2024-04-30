@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card {
+  width: 386px !important;
+  height: 534px !important;
+  background-color: rgba(36, 35, 35, 1) !important;
+}
+.card-img {
+  width: 146px;
+  height: 146px;
+}
+
+.card-body {
+  padding: 0px !important;
+}
+.card-body2 {
+  background-color: rgba(31, 30, 30, 1);
+  height: 95px;
+}
+.image {
+  margin-top: 60px;
+}
+.par1 {
+  margin-top: 21px;
+  margin-bottom: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: rgba(194, 194, 194, 1);
+}
+.par2 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  width: 111px;
+  height: 27px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  background-color: rgba(30, 29, 29, 1);
+  color: rgba(138, 138, 138, 1);
+}
+.par3 {
+  margin-top: 26px;
+  margin-bottom: 0px;
+  width: 257px;
+  height: 89px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: rgba(194, 194, 194, 1);
+}
+body {
+  background-color: rgba(33, 32, 32, 1) !important;
+}
+.social-networks i:hover {
+    color: white;
+}
+.colorf{
+    color: rgba(69, 109, 164, 1);
+}
+.colorl{
+    color: rgba(9, 132, 198, 1);
+}
+.colort{
+    color: rgba(118, 169, 234, 1);
+}
