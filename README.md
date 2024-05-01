@@ -1,4 +1,4 @@
-# Reto 01/100 Profile Card
+# Challenge 01/100 Profile Card
 <p>Personal business card with HTML and CSS</p>
 
 # Challenge 1 – To be fulfilled:
